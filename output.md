@@ -133,16 +133,6 @@ No Bond
 **Package:** CTC - 11LPA.
 
 **Posting:** Mumbai
-
-### sbvfdb
-
-**1**
-
-**Source of information:** 
-
-**Package:** 
-
-**Posting:** 
 ***
 ## CS
 
