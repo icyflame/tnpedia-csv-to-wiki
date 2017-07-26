@@ -1,6 +1,6 @@
 import csv
 file_name = "tnpedia-2016.csv"
-output_file = "output.md"
+output_file = "output-with-subjective.md"
 final_text = ""
 
 DEPARTMENT = 0
@@ -10,6 +10,8 @@ PLACEMENT_DAY = 3
 SOURCE_INFO = 5
 PACKAGE = 6
 POSTING = 7
+P1_DESC = 18
+P1_QUES = 20
 
 with open(file_name, 'rb') as csvfile:
     data = csv.reader(csvfile, delimiter=',', quotechar='"')
@@ -38,12 +40,16 @@ with open(file_name, 'rb') as csvfile:
             source = response[SOURCE_INFO]
             package = response[PACKAGE]
             posting = response[POSTING]
+            p1_desc = response[P1_DESC]
+            p1_ques = response[P1_QUES]
 
             final_text += "\n\n### %s" % company + \
                             "\n\n**%s**" % day + \
                             "\n\n**Source of information:** %s" % source + \
                             "\n\n**Package:** %s" % package + \
-                            "\n\n**Posting:** %s" % posting
+                            "\n\n**Posting:** %s" % posting + \
+                            "\n\n**Phase 1 Desc:** %s" % p1_desc + \
+                            "\n\n**Phase 1 Questions:** %s" % p1_ques
 
     text_file = open(output_file, "w")
     text_file.write(final_text)
