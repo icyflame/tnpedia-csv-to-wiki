@@ -39,11 +39,11 @@ with open(file_name, 'rb') as csvfile:
             package = response[PACKAGE]
             posting = response[POSTING]
 
-            final_text += "\n### %s" % company + \
-                            "\n**%s**" % day + \
-                            "\n**Source of information:** %s" % source + \
-                            "\n**Package:** %s" % package + \
-                            "\n**Posting:** %s" % posting
+            final_text += "\n\n### %s" % company + \
+                            "\n\n**%s**" % day + \
+                            "\n\n**Source of information:** %s" % source + \
+                            "\n\n**Package:** %s" % package + \
+                            "\n\n**Posting:** %s" % posting
 
     text_file = open(output_file, "w")
     text_file.write(final_text)
