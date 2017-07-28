@@ -2,8 +2,11 @@
 
 > Convert responses from all the students to a readable HTML file (anonymized)
 
-This is a [metakgp](https://wiki.metakgp.org) initiative. The data was _not_
-collected by Metakgp.
+This is a [metakgp](https://wiki.metakgp.org) initiative. 
+
+The data was collected by [The Scholars'
+Avenue](https://www.facebook.com/scholarsavenue/), an independent student-run
+campus newspaper in IIT Kharagpur.
 
 Code is licensed under MIT.
 
