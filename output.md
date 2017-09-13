@@ -2,13 +2,17 @@
 
 **Day 1**
 
+**Author details:** CH, 4 year B.Tech
+
 **Open for:** Everyone admitted through the JEE.
 
-**Author details:** 4 year B.Tech, CH
+**Source information:** Seniors, PPT, they provide a detailed PDF about their graduate program.
 
 **Package:** CTC - 11LPA.
 
 **Locations:** Mumbai
+
+**Dual degree specific information:** I am a BTech, but Dual Degrees always have an advantage in campus placements, regardless of the company.
 
 **Academic credentials:** A GPA above 8.5, a decent project(s).
 
@@ -16,11 +20,7 @@
 
 **Particular skills:** Quantitative ability and logical skills really help anywhere. You could do some case studies as well.
 
-**Dual degree specific information:** I am a BTech, but Dual Degrees always have an advantage in campus placements, regardless of the company.
-
 **Notes:** Speak well and be confident.
-
-**Source information:** Seniors, PPT, they provide a detailed PDF about their graduate program.
 
 **Parting advice:**
 
@@ -29,9 +29,11 @@ I was disappointed with my placement. Prepare well and you will not be.
 
 **Day 2**
 
+**Author details:** HS, 5 year Integrated M.Sc.
+
 **Open for:** 4
 
-**Author details:** 5 year Integrated M.Sc., HS
+**Source information:** no information was available
 
 **Package:** CTC 11.46 lpa
 take home: 9 lpa
@@ -41,6 +43,8 @@ variable: 10.8% of fixed
 
 **Locations:** Bangalore
 
+**Dual degree specific information:** very very important
+
 
 **Extra academic credentials:** Academic credentials was not as important. I have above 8.5 CGPA but other two students recruited are having 6-7 CGPA.
 Ideal student constitutes person having good communication skills and who is able to describe his&#x2F;her internship completely. He&#x2F; She should know every nook and corner of internship.
@@ -48,10 +52,6 @@ Moreover knowledge about regression analysis is very important.
 
 **Particular skills:** I am not involved in any extra-curricular.
 
-**Dual degree specific information:** very very important
-
-
-**Source information:** no information was available
 
 **Parting advice:**
 
@@ -60,13 +60,18 @@ Moreover knowledge about regression analysis is very important.
 
 **Day 6**
 
+**Author details:** AE, Dual Degree
+
 **Open for:** Open to all ( Both B.Tech and Dual Degree )
 
-**Author details:** Dual Degree, AE
+**Source information:** www.Altair-India.com
+www.Ambitionbox.com
 
 **Package:** CTC is 7 lpa
 
 **Locations:** Bangalore
+
+**Dual degree specific information:** For Core aerospace companies, it is mandatory that you are dual.
 
 **Academic credentials:** CGPA above 8.5
 Fellowships (or) Scholarships
@@ -77,22 +82,21 @@ Projects
 **Particular skills:** Proficiency in C and C++ (or) Java will give you a strong edge over others.
 Languages like python are also helpful.
 
-**Dual degree specific information:** For Core aerospace companies, it is mandatory that you are dual.
-
-
-**Source information:** www.Altair-India.com
-www.Ambitionbox.com
 
 ## Bluegape
 
 **Day 15**
 
+**Author details:** BT, Dual Degree
+
 **Open for:** All
 
-**Author details:** Dual Degree, BT
+**Source information:** Website, App, News Articles
 
 
 **Locations:** Gurgaon, Haryana
+
+**Dual degree specific information:** No, this particular rule did not affect me much.
 
 **Academic credentials:** CGPA &gt; 8.0
 
@@ -102,10 +106,6 @@ www.Ambitionbox.com
 Data Software: MS Excel, SAS
 Good Quantitative Ability &amp; Case Study&#x2F;Case Interview Experience
 
-**Dual degree specific information:** No, this particular rule did not affect me much.
-
-
-**Source information:** Website, App, News Articles
 
 **Parting advice:**
 
@@ -114,18 +114,22 @@ Try to develop your CV and credentials for about 6 months to 1 year before place
 
 **Day 10**
 
+**Author details:** EE, Dual Degree
+
 **Open for:** EE
 B.tech, M.Tech (power systems), Dual (specialization in Power systems)
 
 ME
 All
 
-**Author details:** Dual Degree, EE
+**Source information:** PPT was the best source. something available on web too. Many professors in EE department also know very well about the company some of them are previous employees of CESC. 
 
 **Package:** CTC- 8 Lpa
 Take Home- 50-60k
 
 **Locations:** kolkata
+
+**Dual degree specific information:** Yes. Even they weren&#39;t open for dual degree. After PPT we talked to them and after that they opened for us.
 
 **Academic credentials:** cgpa not at all matters. What matters is good performance in their test, GD and PI. In PI they ask practical industry related questions. For electrical people it was mainly from sub-station and transformer parts related questions. show them your interest in core field.
 
@@ -133,11 +137,7 @@ Take Home- 50-60k
 
 **Particular skills:** No
 
-**Dual degree specific information:** Yes. Even they weren&#39;t open for dual degree. After PPT we talked to them and after that they opened for us.
-
 **Notes:** If you have interest in core go for it. Don&#39;t get distracted if core companies aren&#39;t coming. Most importantly keep patience you&#39;ll definitely get a core job if you have patience.
-
-**Source information:** PPT was the best source. something available on web too. Many professors in EE department also know very well about the company some of them are previous employees of CESC. 
 
 **Parting advice:**
 
@@ -147,13 +147,17 @@ All the best. :)
 
 **Day 4**
 
+**Author details:** ME, Dual Degree
+
 **Open for:** All
 
-**Author details:** Dual Degree, ME
+**Source information:** Eep job description.
 
 **Package:** 10.7 CTC. Cash component 9
 
 **Locations:** Gurgaon
+
+**Dual degree specific information:** got it off-campus, not sure
 
 **Academic credentials:** around 8.5
 
@@ -161,11 +165,7 @@ All the best. :)
 
 **Particular skills:** depends on profile. For consultancy or analyst position - cases, guesstimates and number crunching
 
-**Dual degree specific information:** got it off-campus, not sure
-
 **Notes:** a good suit? i kid
-
-**Source information:** Eep job description.
 
 **Parting advice:**
 
@@ -174,13 +174,17 @@ keep CG above 7.5. Start preparing at least 2 months before placements keeping t
 
 **Day 4**
 
+**Author details:** NA, Dual Degree
+
 **Open for:** Dual degree all
 
-**Author details:** Dual Degree, NA
+**Source information:** Cdc erp Jnf
 
 **Package:** CTC: 10.7 lpa, take home: 7.5 lpa + 1 lakh joining bonus
 
 **Locations:** Gurgaon
+
+**Dual degree specific information:** Not at all, in fact I was surprised to see many dual degree people including me were preferred over our B.Tech peers due to more focused and decisive attitude
 
 **Academic credentials:** Decent Cgpa (7.5 - 8.5), internships or projects in relevant field, substantial work in your BTP and MTP even tough you may be applying in non core companies
 
@@ -188,11 +192,7 @@ keep CG above 7.5. Start preparing at least 2 months before placements keeping t
 
 **Particular skills:** Good with probability and statistics, case studies and guesstimates
 
-**Dual degree specific information:** Not at all, in fact I was surprised to see many dual degree people including me were preferred over our B.Tech peers due to more focused and decisive attitude
-
 **Notes:** Learning R for analyst profile is a plus but not necessary as companies only look for good prob stat skills
-
-**Source information:** Cdc erp Jnf
 
 **Parting advice:**
 
@@ -201,13 +201,17 @@ Placement process is a good learning experince and being prepared on that day of
 
 **Day 3**
 
+**Author details:** AE, Dual Degree
+
 **Open for:** AE, EC, EE 
 
-**Author details:** Dual Degree, AE
+**Source information:** Seniors already placed previous year.
 
 **Package:** CTC fixed: 10
 
 **Locations:** Bangalore
+
+**Dual degree specific information:** Didn&#39;t matter for me as I was just focusing on core companies.
 
 **Academic credentials:** Honeywell came for Flight Management System profile and they needed people with knowledge of Avionics, navigation, flight mechanics and coding. Basic knowledge of flight mechanics is mandatory for aerospace students and programming skill has added benefit. 
 
@@ -217,11 +221,7 @@ Suggestion: Don&#39;t participate in extra-curricular activities to make your CV
 **Particular skills:** Aptitude skill is necessary for any profile.
 
 
-**Dual degree specific information:** Didn&#39;t matter for me as I was just focusing on core companies.
-
 **Notes:** Knowledge of basics are very important in core companies.
-
-**Source information:** Seniors already placed previous year.
 
 **Parting advice:**
 
@@ -230,13 +230,17 @@ Don&#39;t go for money if you have any interest.
 
 **2**
 
+**Author details:** MI, Dual Degree
+
 **Open for:** All
 
-**Author details:** Dual Degree, MI
+**Source information:** Glassdoor, Ambitionbox
 
 **Package:** 10.8 lpa CTC
 
 **Locations:** Mumbai
+
+**Dual degree specific information:** No
 
 **Academic credentials:** CG&gt;8.5 + Basic knowledge of finance
 
@@ -244,10 +248,6 @@ Don&#39;t go for money if you have any interest.
 
 **Particular skills:** Practice with business cases
 
-**Dual degree specific information:** No
-
-
-**Source information:** Glassdoor, Ambitionbox
 
 **Parting advice:**
 
@@ -256,13 +256,17 @@ Not about this company in particular. Just one thing, avoid getting involved in 
 
 **Day 3**
 
+**Author details:** EC, Dual Degree
+
 **Open for:** ECE, CS - All courses
 
-**Author details:** Dual Degree, EC
+**Source information:** Mentor graphics career portal has all the information regarding the job profiles, software they develop. Current Research activities and trends.
 
 **Package:** 13.7 Lakh - Including Bonus, Relocation, Variable Pay
 
 **Locations:** Noida, Bangalore
+
+**Dual degree specific information:** No
 
 **Academic credentials:** Coding, Strong basics in Algorithms, Digital Electronics, Analog Circuits. Experience in C &amp; C++. Verilog&#x2F;VHDL knowledge is helpful. CGPA higher than 7 is preferred. 
 
@@ -270,11 +274,7 @@ Not about this company in particular. Just one thing, avoid getting involved in 
 
 **Particular skills:** Since Mentor Graphics designs tools related to EDA, Verification, IP, Prototyping, a good knowledge in Algorithms, Verilog&#x2F;VHDL and C is required. Good knowledge in core subjects is a must.
 
-**Dual degree specific information:** No
-
 **Notes:** Interest in the company and students smartness was checked thoroughly through some confusing questions. 
-
-**Source information:** Mentor graphics career portal has all the information regarding the job profiles, software they develop. Current Research activities and trends.
 
 **Parting advice:**
 
@@ -285,13 +285,17 @@ With thorough planning and execution, even the wildest of dreams can come true.
 
 **1**
 
+**Author details:** CS, 4 year B.Tech
+
 **Open for:** CSE, MA, EC
 
-**Author details:** 4 year B.Tech, CS
+**Source information:** Microsoft provides a detailed 5-page document and a promotional video via email outlining their 2 major businesses, job roles that are open and details about their training programme.
 
 **Package:** CTC : 21 LPA (no detailed breakup provided)
 
 **Locations:** Hyderabad, Bengaluru
+
+**Dual degree specific information:** Not applicable.
 
 **Academic credentials:** CGPA does not really matter as far as I understand. (I got hired with a CGPA of 7.06 at the time of placements)
 
@@ -299,11 +303,7 @@ With thorough planning and execution, even the wildest of dreams can come true.
 
 **Particular skills:** Design&#x2F;architecture skills are highly valued and are a major deciding factor. Modelling of open-ended problems and ability to hash out real-world implementations separate a good candidate from a strong candidate.
 
-**Dual degree specific information:** Not applicable.
-
 **Notes:** Experience using different frameworks and tools, staying up to date on developments in the industry and having an informed opinion about them helped quite a lot during interviews.
-
-**Source information:** Microsoft provides a detailed 5-page document and a promotional video via email outlining their 2 major businesses, job roles that are open and details about their training programme.
 
 **Parting advice:**
 
@@ -312,13 +312,17 @@ CGPA doesn&#39;t matter as much as you think.
 
 **Day 12**
 
+**Author details:** ME, Dual Degree
+
 **Open for:** AE (B.Tech and Dual(all spl)) 
 
-**Author details:** Dual Degree, ME
+**Source information:** Not much. Had to depend a lot on the internet (Quora etc)
 
 **Package:** 12lpa (10.8 (fixed) + 1.2 (variable))
 
 **Locations:** Gurgaon
+
+**Dual degree specific information:**  EC (B.Tech and Dual(all spl)) 
 
 **Academic credentials:**  BT (B.Tech and Dual(all spl)) 
 
@@ -326,11 +330,7 @@ CGPA doesn&#39;t matter as much as you think.
 
 **Particular skills:**  CE (B.Tech and Dual(all spl)) 
 
-**Dual degree specific information:**  EC (B.Tech and Dual(all spl)) 
-
 **Notes:**  IM (B.Tech and Dual(all spl)) 
-
-**Source information:** Not much. Had to depend a lot on the internet (Quora etc)
 
 **Parting advice:**
 
@@ -339,13 +339,17 @@ Interview
 
 **Day 2**
 
+**Author details:** AE, Dual Degree
+
 **Open for:** Open to all
 
-**Author details:** Dual Degree, AE
+**Source information:** Not much, since it&#39;s a startup. Website, news
 
 **Package:** 12.5LPA, CTC and 10LPA take home
 
 **Locations:** Bangalore, Gurgaon, Mumbai
+
+**Dual degree specific information:** Nope
 
 **Academic credentials:** Not sure what they were looking for. I had a CGPA of 8.7 and am lmost done with my minor. 
 
@@ -353,11 +357,7 @@ Interview
 
 **Particular skills:** Quant and math was necessary, I think. The test was a math paper. 
 
-**Dual degree specific information:** Nope
-
 **Notes:** Communication skills. I felt a lot depended on my interview. 
-
-**Source information:** Not much, since it&#39;s a startup. Website, news
 
 **Parting advice:**
 
@@ -367,15 +367,19 @@ Do practice mock interviews well in advance to prepare you for them.
 
 **2**
 
+**Author details:** HS, 5 year Integrated M.Sc.
+
 **Open for:** Economics 
 Financial Engineering
 
-**Author details:** 5 year Integrated M.Sc., HS
+**Source information:** Regarding what?
 
 **Package:** CTC - 14.99
 Take Home - 10.8+3
 
 **Locations:** Navi Mumbai
+
+**Dual degree specific information:** No it wasn&#39;t for me. A higher degree actually helped me get one.
 
 **Academic credentials:** CGPA during placement - 7.26
 Currently - 7.43
@@ -386,16 +390,12 @@ Captain RP Case Study Team
 
 **Particular skills:** Statistical Programming - R - and command over MS Excel was required
 
-**Dual degree specific information:** No it wasn&#39;t for me. A higher degree actually helped me get one.
-
 **Notes:** Do not fake anything in CV unless you can defend it properly
 Be thorough
 Should have knowledge of company you are sitting for
 Don&#39;t give into stress
 Be humble
 Do not beat around the bush, accept if you don&#39;t know the answer
-
-**Source information:** Regarding what?
 
 **Parting advice:**
 
@@ -408,9 +408,11 @@ Contact seniors for help regarding selection procedure.
 
 **Day 3**
 
+**Author details:** GG, 5 year Integrated M.Sc.
+
 **Open for:** All
 
-**Author details:** 5 year Integrated M.Sc., GG
+**Source information:** Website and Internet
 
 **Package:** 9 fixed + 2 variable + 1 retention
 take home: 70k per month
@@ -422,8 +424,6 @@ take home: 70k per month
 
 
 
-**Source information:** Website and Internet
-
 **Parting advice:**
 
 You need to maintain a proper portfolio with at least a cgpa of 8 and Good POR which is mainly core team. Foreign Internships are also given importance.
@@ -432,13 +432,16 @@ If you know coding then its all together different game.
 
 **Day3**
 
+**Author details:** ME, 4 year B.Tech
+
 **Open for:** All
 
-**Author details:** 4 year B.Tech, ME
+**Source information:** Internet, App
 
 **Package:** 12 Lakh CTC, No bond
 
 **Locations:** Bengaluru, New Delhi
+
 
 **Academic credentials:** 7.33
 
@@ -446,10 +449,7 @@ If you know coding then its all together different game.
 
 **Particular skills:** Quantitative analysis, Data interpretation and Logical Reasoning , English forte
 
-
 **Notes:** CG should be ideally 7.5+ to put to effect a good placement
-
-**Source information:** Internet, App
 
 **Parting advice:**
 
@@ -458,14 +458,18 @@ You have remain cool and composed through all stages of selection for whichever 
 
 **Day 1**
 
+**Author details:** CH, Dual Degree
+
 **Open for:** Chemical, Mechanical, Aerospace, Civil, Geology and Geophysics, may be 2-3 more depts
 
-**Author details:** Dual Degree, CH
+**Source information:** Brochure, Online, CDC
 
 **Package:** 18.34 (Dual), 15.6 (B.Tech)
 No Bond
 
 **Locations:** Banglore
+
+**Dual degree specific information:** No
 
 **Academic credentials:** Recruiters prefer 8+ CG but there is no CG criteria
 
@@ -473,11 +477,7 @@ No Bond
 
 **Particular skills:** Logical Thinking, Analysing data and situation
 
-**Dual degree specific information:** No
-
 **Notes:** NA
-
-**Source information:** Brochure, Online, CDC
 
 **Parting advice:**
 
@@ -486,9 +486,11 @@ Be as quantitative as you can while solving the case study.
 
 **14**
 
+**Author details:** EE, 4 year B.Tech
+
 **Open for:** All
 
-**Author details:** 4 year B.Tech, EE
+**Source information:** Website
 
 **Package:** 8Lpa, no bond
 
@@ -499,19 +501,21 @@ Be as quantitative as you can while solving the case study.
 
 
 
-**Source information:** Website
-
 ## Synopsys
 
 **Day 3**
 
+**Author details:** EC, Dual Degree
+
 **Open for:** ECE, EE, CS - All courses excluding some specializations
 
-**Author details:** Dual Degree, EC
+**Source information:** Synopsys career portal has clear info regarding available openings, job profiles, experience required. Tools, IP, protoyping softwares developed by them.
 
 **Package:** 9.25L Base + 83K variable + 1.7L Benefits + 75K Relocation
 
 **Locations:** Bangalore, Hyderabad
+
+**Dual degree specific information:** No
 
 **Academic credentials:** Algorithms, Proficiency in Coding in either C&#x2F;C++. Good knowledge in  Digital, Analog Electronics, VLSI CAD, Verilog&#x2F;VHDL, Cadence, Xilinx, Synopsys softwares. A lot of practice in Logical, Analytical, Aptitude questions. CGPA higher than 7.5 is preferred but is not compulsory.
 
@@ -519,11 +523,7 @@ Be as quantitative as you can while solving the case study.
 
 **Particular skills:** Test had 3 parts. Questions based on Algorithms, Data structures, Quantitative Ability were given in the Test. A good amount of practice is required to clear the test. In coding section, questions related to pointers, program sub routine calls, fork, dma etc were given. Deeper understanding of C or C++ is a must. Problems related to Digital, Analog VLSI, Logic gates, Delay, Flip Flops, Memory Organization were given in the core part.
 
-**Dual degree specific information:** No
-
 **Notes:** Interviewers were dealing with students in a friendly and observant manner. After getting past the test, only students interest in the company and EDA field is checked. Other than some basic questions, a good CV and a deep interest in the job profile are helpful to get selected.
-
-**Source information:** Synopsys career portal has clear info regarding available openings, job profiles, experience required. Tools, IP, protoyping softwares developed by them.
 
 **Parting advice:**
 
@@ -533,14 +533,17 @@ With planning and smart work, even the wildest of dreams can come true.
 
 **Day 5**
 
+**Author details:** EC, 4 year B.Tech
+
 **Open for:** All
 
-**Author details:** 4 year B.Tech, EC
+**Source information:** You can go through their website, where they have mentioned everything.
 
 **Package:** CTC - 12.13(9 fixed+1 joining bonus+ 1.5 retention bonus+0.63 variable bonus)
 Take home same as CTC
 
 **Locations:** Bangalore
+
 
 **Academic credentials:** Good programming skills, Data structures, Algorithms
 
@@ -549,9 +552,6 @@ Take home same as CTC
 **Particular skills:** Any programming language (preferably C&#x2F;C++)
 
 
-
-**Source information:** You can go through their website, where they have mentioned everything.
-
 **Parting advice:**
 
 Be confident, you will be placed :)
@@ -559,15 +559,18 @@ Be confident, you will be placed :)
 
 **Dec 3**
 
+**Author details:** ME, 4 year B.Tech
+
 **Open for:** Mechanical
 Metallurgy
 
-**Author details:** 4 year B.Tech, ME
+**Source information:** CDC Notice Board
 
 **Package:** CTC - 8.33 lpa
 Take home - 50000 per month
 
 **Locations:** Jamshedpur
+
 
 **Academic credentials:** Stress on a good CGPA
 Good intern suitably in core
@@ -579,20 +582,20 @@ Good intern suitably in core
 **Particular skills:** NO
 
 
-
-**Source information:** CDC Notice Board
-
 ## TCG Digital Services
 
 **Day 4**
 
+**Author details:** AG, 4 year B.Tech
+
 **Open for:** Open for all
 
-**Author details:** 4 year B.Tech, AG
+**Source information:** A power point presentation of the company and the views of the seniors that got placed in the company and some policies , work done by the company in various fields was attached.
 
 **Package:** CTC of 12 lpa with 10.8 take home. No bond.
 
 **Locations:** Calcutta
+
 
 **Academic credentials:** CGPA doesn&#39;t matter. Very excellent problem solving skill is required (Good knowledge in aptitude and puzzle solving skills). 
 
@@ -601,20 +604,20 @@ Good intern suitably in core
 **Particular skills:** math, quantitative ability with good imagination.
 
 
-
-**Source information:** A power point presentation of the company and the views of the seniors that got placed in the company and some policies , work done by the company in various fields was attached.
-
 ## TCG Digital Services
 
 **Day4**
 
+**Author details:** CE, Dual Degree
+
 **Open for:** All students through JEE
 
-**Author details:** Dual Degree, CE
+**Source information:** Internet, Seniors who got placed previous year
 
 **Package:** 12 CTC
 
 **Locations:** Kolkata, Mumbai, Delhi
+
 
 **Academic credentials:** CG 7.5 + is acceptable, they shortlisted based on Aptitude test which also included a written essay
 
@@ -622,10 +625,7 @@ Good intern suitably in core
 
 **Particular skills:** They were looking for Consulting profile. So experience with Case studies might help. Also, any exposure with Data Analytics is a positive.
 
-
 **Notes:** Confidence, Good language skills, Ability to hold a conversation, Basic G.K. 
-
-**Source information:** Internet, Seniors who got placed previous year
 
 **Parting advice:**
 
@@ -635,15 +635,18 @@ Best of luck guys. If this info helps any of you get placed in TCG, do let me kn
 
 **Day 2**
 
+**Author details:** CS, 4 year B.Tech
+
 **Open for:** CS
 MnC
 
-**Author details:** 4 year B.Tech, CS
+**Source information:** Lots of information available on internet
 
 **Package:** CTC &#x3D; 36lpa
 Take Home &#x3D; 18 + 5(bouns)
 
 **Locations:** San Fransisco, Bangalore
+
 
 **Academic credentials:** CGPA &#x3D; 9.03
 NTSE Scholar
@@ -659,10 +662,7 @@ Member of Pravah (Hindi Dramatics Group)
 **Particular skills:** Algorithms&#x2F; Sport Programming
 Software Engineering
 
-
 **Notes:** Personality matters. Be yourself.
-
-**Source information:** Lots of information available on internet
 
 **Parting advice:**
 
