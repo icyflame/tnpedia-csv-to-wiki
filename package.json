@@ -1,0 +1,24 @@
+{
+  "name": "tnpedia",
+  "version": "1.0.0",
+  "description": "> Convert responses from all the students to a readable HTML file (anonymized)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icyflame/tnpedia-csv-to-wiki.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icyflame/tnpedia-csv-to-wiki/issues"
+  },
+  "homepage": "https://github.com/icyflame/tnpedia-csv-to-wiki#readme",
+  "dependencies": {
+    "fast-csv": "^2.4.0",
+    "lodash": "^4.17.4",
+    "mustache": "^2.3.0"
+  }
+}
