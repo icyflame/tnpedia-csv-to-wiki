@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/icyflame/tnpedia-csv-to-wiki#readme",
   "dependencies": {
-    "fast-csv": "^2.4.0",
-    "lodash": "^4.17.4",
-    "mustache": "^2.3.0"
+    "fast-csv": "2.4.0",
+    "lodash": "4.17.4",
+    "mustache": "2.3.0"
   }
 }
